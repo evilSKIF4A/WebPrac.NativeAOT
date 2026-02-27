@@ -1,0 +1,7 @@
+﻿services:
+  webprac.nativeaot.api:
+    image: webprac.nativeaot.api
+    build:
+      context: .
+      dockerfile: WebPrac.NativeAOT.Api/Dockerfile
+
