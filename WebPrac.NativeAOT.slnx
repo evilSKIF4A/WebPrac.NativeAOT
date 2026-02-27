@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
-    <File Path="compose.yaml" />
+    <File Path="docker-compose.yaml" />
   </Folder>
   <Project Path="WebPrac.NativeAOT.Api/WebPrac.NativeAOT.Api.csproj" />
 </Solution>
