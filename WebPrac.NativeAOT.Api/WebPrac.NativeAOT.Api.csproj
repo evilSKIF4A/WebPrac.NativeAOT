@@ -22,4 +22,8 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\WebPrac.NativeAOT.Api.Models\WebPrac.NativeAOT.Api.Models.csproj" />
+    </ItemGroup>
+
 </Project>

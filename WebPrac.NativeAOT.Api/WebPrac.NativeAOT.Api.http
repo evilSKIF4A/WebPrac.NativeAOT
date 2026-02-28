@@ -1,11 +1,6 @@
 @WebPrac.NativeAOT.Api_HostAddress = http://localhost:5111
 
-GET {{WebPrac.NativeAOT.Api_HostAddress}}/todos/
-Accept: application/json
-
-###
-
-GET {{WebPrac.NativeAOT.Api_HostAddress}}/todos/1
+GET {{WebPrac.NativeAOT.Api_HostAddress}}/temperature/celsius
 Accept: application/json
 
 ###
