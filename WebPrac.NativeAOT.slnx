@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path="docker-compose.yaml" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="WebPrac.NativeAOT.Api.Models/WebPrac.NativeAOT.Api.Models.csproj" />
   <Project Path="WebPrac.NativeAOT.Api/WebPrac.NativeAOT.Api.csproj" />
