@@ -1,6 +1,0 @@
-@WebPrac.NativeAOT.Api_HostAddress = http://localhost:5111
-
-GET {{WebPrac.NativeAOT.Api_HostAddress}}/temperature/celsius
-Accept: application/json
-
-###

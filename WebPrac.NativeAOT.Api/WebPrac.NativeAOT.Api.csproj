@@ -11,6 +11,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3"/>
+        <PackageReference Include="Microsoft.Extensions.Logging" Version="10.0.3" />
     </ItemGroup>
 
     <ItemGroup>
@@ -24,6 +25,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\WebPrac.NativeAOT.Api.Models\WebPrac.NativeAOT.Api.Models.csproj" />
+      <ProjectReference Include="..\WebPrac.NativeAOT.Application\WebPrac.NativeAOT.Application.csproj" />
     </ItemGroup>
 
 </Project>

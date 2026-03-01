@@ -5,4 +5,5 @@
   </Folder>
   <Project Path="WebPrac.NativeAOT.Api.Models/WebPrac.NativeAOT.Api.Models.csproj" />
   <Project Path="WebPrac.NativeAOT.Api/WebPrac.NativeAOT.Api.csproj" />
+  <Project Path="WebPrac.NativeAOT.Application/WebPrac.NativeAOT.Application.csproj" />
 </Solution>
